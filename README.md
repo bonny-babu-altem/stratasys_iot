@@ -46,7 +46,7 @@ This repository contains the **ROS 2 IoT Adapter framework**, enabling integrati
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/ros2-iot-adapter.git
+git clone [https://github.com/your-org/ros2-iot-adapter.git](https://github.com/bonny-babu-altem/altem_iot.git)
 cd ros2-iot-adapter
 ```
 
